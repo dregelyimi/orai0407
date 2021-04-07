@@ -1,0 +1,10 @@
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\bin\Debug\AdatbazisGyak.exe.config
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\bin\Debug\AdatbazisGyak.exe
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\bin\Debug\AdatbazisGyak.pdb
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.csprojAssemblyReference.cache
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.Form1.resources
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.Properties.Resources.resources
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.csproj.GenerateResource.cache
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.csproj.CoreCompileInputs.cache
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.exe
+C:\Users\Drégely Imre\Desktop\Dolgok\Stuff\VisualStudio\AdatbazisGyak\AdatbazisGyak\obj\Debug\AdatbazisGyak.pdb
